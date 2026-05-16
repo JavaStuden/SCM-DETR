@@ -1,6 +1,10 @@
 # SCM-DETR
 # Procambarus clarkii Gonad Dataset
 
+## Dataset Download
+
+Google Drive: [Procambarus clarkii Gonad Dataset](https://drive.google.com/drive/folders/1Rj7imYvUNt7IZazjbyxfh2og6IhXJAkn?usp=drive_link)
+
 本数据集用于小龙虾（Procambarus clarkii）性别检测研究，主要基于小龙虾性腺区域图像进行目标检测与分类标注。数据集可用于训练和评估小龙虾性腺识别、雌雄判别以及相关水产养殖智能检测模型。
 
 ## 数据集简介
