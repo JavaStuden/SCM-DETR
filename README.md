@@ -65,12 +65,6 @@ Procambarus-clarkii-Gonad-Dataset/
 
 ## 数据集文件
 
-当前数据集压缩包本地路径为：
-
-```text
-F:\2025110317-代刘斌-ViT\Procambarus-clarkii-Gonad-Dataset.zip
-```
-
 压缩包大小约为 3.52 GB。解压后根目录名称为：
 
 ```text
